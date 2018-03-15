@@ -1,13 +1,13 @@
-package com.github.filipvencovsky.adventura;
+package com.github.baka03.adventura;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.github.filipvencovsky.adventura.logika.Hra;
-import com.github.filipvencovsky.adventura.logika.PrikazJdi;
-import com.github.filipvencovsky.adventura.logika.PrikazKonec;
-import com.github.filipvencovsky.adventura.logika.SeznamPrikazu;
+import com.github.baka03.adventura.logika.Hra;
+import com.github.baka03.adventura.logika.PrikazJdi;
+import com.github.baka03.adventura.logika.PrikazKonec;
+import com.github.baka03.adventura.logika.SeznamPrikazu;
 
 import static org.junit.Assert.*;
 

@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.github.filipvencovsky</groupId>
+  <groupId>com.github.baka03</groupId>
   <artifactId>adventura</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
@@ -45,7 +45,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<mainClass>
-	com.github.filipvencovsky.adventura.main.Start</mainClass>
+	com.github.baka03.adventura.main.Start</mainClass>
 						</manifest>
 					</archive>
 				</configuration>

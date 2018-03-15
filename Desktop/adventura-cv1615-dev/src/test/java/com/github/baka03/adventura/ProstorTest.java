@@ -1,11 +1,11 @@
-package com.github.filipvencovsky.adventura;
+package com.github.baka03.adventura;
 
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.github.filipvencovsky.adventura.logika.Prostor;
+import com.github.baka03.adventura.logika.Prostor;
 
 import static org.junit.Assert.*;
 

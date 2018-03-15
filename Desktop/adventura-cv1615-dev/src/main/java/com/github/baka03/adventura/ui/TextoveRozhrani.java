@@ -1,8 +1,8 @@
-package com.github.filipvencovsky.adventura.ui;
+package com.github.baka03.adventura.ui;
 
 
 import java.util.Scanner;
-import com.github.filipvencovsky.adventura.logika.IHra;
+import com.github.baka03.adventura.logika.IHra;
 /**
  *  Class TextoveRozhrani
  * 

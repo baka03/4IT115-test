@@ -1,4 +1,4 @@
-package com.github.filipvencovsky.adventura.logika;
+package com.github.baka03.adventura.logika;
 
 /**
  *  Třída implementující toto rozhraní bude ve hře zpracovávat jeden konkrétní příkaz.

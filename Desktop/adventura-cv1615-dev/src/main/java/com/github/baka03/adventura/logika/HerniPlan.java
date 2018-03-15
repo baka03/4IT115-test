@@ -1,4 +1,4 @@
-package com.github.filipvencovsky.adventura.logika;
+package com.github.baka03.adventura.logika;
 
 
 /**

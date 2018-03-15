@@ -1,11 +1,11 @@
 /* Soubor je ulozen v kodovani UTF-8.
  * Kontrola kódování: Příliš žluťoučký kůň úpěl ďábelské ódy. */
-package com.github.filipvencovsky.adventura.main;
+package com.github.baka03.adventura.main;
 
 
 
-import com.github.filipvencovsky.adventura.logika.*;
-import com.github.filipvencovsky.adventura.ui.TextoveRozhrani;
+import com.github.baka03.adventura.logika.*;
+import com.github.baka03.adventura.ui.TextoveRozhrani;
 
 /*******************************************************************************
  * Třída {@code Start} je hlavní třídou projektu,

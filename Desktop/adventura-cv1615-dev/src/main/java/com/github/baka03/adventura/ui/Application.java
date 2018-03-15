@@ -1,7 +1,7 @@
-package com.github.filipvencovsky.adventura.ui;
+package com.github.baka03.adventura.ui;
 
-import com.github.filipvencovsky.adventura.logika.Hra;
-import com.github.filipvencovsky.adventura.logika.IHra;
+import com.github.baka03.adventura.logika.Hra;
+import com.github.baka03.adventura.logika.IHra;
 
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
